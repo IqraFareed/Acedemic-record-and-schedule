@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://iqrafareed:5027521!@cmsdb.rjywz.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "MysecretToken"
+}
